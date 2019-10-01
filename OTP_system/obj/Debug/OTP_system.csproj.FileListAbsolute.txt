@@ -1,0 +1,6 @@
+F:\Newotp\OTP_system\OTP_system\bin\OTP_system.dll.config
+F:\Newotp\OTP_system\OTP_system\bin\OTP_system.dll
+F:\Newotp\OTP_system\OTP_system\bin\OTP_system.pdb
+F:\Newotp\OTP_system\OTP_system\obj\Debug\OTP_system.csprojResolveAssemblyReference.cache
+F:\Newotp\OTP_system\OTP_system\obj\Debug\OTP_system.dll
+F:\Newotp\OTP_system\OTP_system\obj\Debug\OTP_system.pdb
